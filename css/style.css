@@ -12,3 +12,7 @@ h4{
 form{
     padding: 40px 20px;
 }
+span{
+    color: red;
+    font-size: 12px;
+}
